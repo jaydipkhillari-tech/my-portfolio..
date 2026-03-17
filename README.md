@@ -39,8 +39,7 @@ The purpose of this project is to practice front-end development skills and buil
 Jaydip Patil
 
 ## 📬 Contact
-
-You can reach me through the contact form on the website.
+jaydipkhillari@gmail.com 
 
 ---
 
